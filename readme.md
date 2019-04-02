@@ -1,2 +1,2 @@
 Short Lnk
-This is a short app built with Meteor and React
+This is a link shortener app built with Meteor and React
